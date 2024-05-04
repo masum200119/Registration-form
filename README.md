@@ -1,2 +1,2 @@
-# Nihal_Nokol
+Numerical
 Nokol
